@@ -1,8 +1,6 @@
-Noah Fage
+Hey I'm Noah!
 
-
-CS student at McGill, working on detection engineering and anomaly detection.
-
+I'm CS student at McGill specializing in cybersecurity, working on detection engineering and anomaly detection.
 
 Sigil is a real-time Sigma detection engine for Windows. It evaluates rules against live Sysmon telemetry and links related detections across process lineage into one scored attack chain. I tested it on public attack data and a day of my own activity, and wrote up what broke.
 
